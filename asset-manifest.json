@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/ignite-reactjs-dtmoney/static/js/main.1d31f65c.chunk.js",
+    "main.js.map": "/ignite-reactjs-dtmoney/static/js/main.1d31f65c.chunk.js.map",
+    "runtime-main.js": "/ignite-reactjs-dtmoney/static/js/runtime-main.cf2e3377.js",
+    "runtime-main.js.map": "/ignite-reactjs-dtmoney/static/js/runtime-main.cf2e3377.js.map",
+    "static/js/2.3c9fbb10.chunk.js": "/ignite-reactjs-dtmoney/static/js/2.3c9fbb10.chunk.js",
+    "static/js/2.3c9fbb10.chunk.js.map": "/ignite-reactjs-dtmoney/static/js/2.3c9fbb10.chunk.js.map",
+    "index.html": "/ignite-reactjs-dtmoney/index.html",
+    "static/js/2.3c9fbb10.chunk.js.LICENSE.txt": "/ignite-reactjs-dtmoney/static/js/2.3c9fbb10.chunk.js.LICENSE.txt",
+    "static/media/close.3e141cd0.svg": "/ignite-reactjs-dtmoney/static/media/close.3e141cd0.svg",
+    "static/media/income.d58effe2.svg": "/ignite-reactjs-dtmoney/static/media/income.d58effe2.svg",
+    "static/media/logo.614d71d1.svg": "/ignite-reactjs-dtmoney/static/media/logo.614d71d1.svg",
+    "static/media/outcome.6eb96d30.svg": "/ignite-reactjs-dtmoney/static/media/outcome.6eb96d30.svg",
+    "static/media/total.efc003fe.svg": "/ignite-reactjs-dtmoney/static/media/total.efc003fe.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf2e3377.js",
+    "static/js/2.3c9fbb10.chunk.js",
+    "static/js/main.1d31f65c.chunk.js"
+  ]
+}
